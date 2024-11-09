@@ -77,7 +77,7 @@
       <recent name="$PROJECT_DIR$/war" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.jspcrud">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.962">
     <configuration name="Tomcat 9.0.962" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.962" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
         <artifact name="JSPCRUDProject:war exploded">
@@ -203,7 +203,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731114850015</updated>
       <workItem from="1731114851020" duration="1100000" />
-      <workItem from="1731115958660" duration="10231000" />
+      <workItem from="1731115958660" duration="11116000" />
     </task>
     <servers />
   </component>
