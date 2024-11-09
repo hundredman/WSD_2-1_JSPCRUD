@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b882271-3161-4f41-bcfc-9db86bac2614" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/war/jspcrud.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b882271-3161-4f41-bcfc-9db86bac2614" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.jspcrud.executor": "Run",
     "Maven.JSPCRUDProject [package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Tomcat Server.Tomcat 9.0.962.executor": "Run",
@@ -206,7 +203,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731114850015</updated>
       <workItem from="1731114851020" duration="1100000" />
-      <workItem from="1731115958660" duration="9907000" />
+      <workItem from="1731115958660" duration="10231000" />
     </task>
     <servers />
   </component>
